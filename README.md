@@ -1,4 +1,4 @@
-# PHP Trip-Registration Form Project
+# PHP Trip-Registration Form 
 
 ## Overview
 This project is a simple trip-registration form created using PHP and MySQL. It allows users to register by entering their personal details, which are then stored in a database.
